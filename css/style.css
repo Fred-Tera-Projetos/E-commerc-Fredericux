@@ -1,0 +1,18 @@
+#botao-topo {
+    background: none;
+    border: none;
+    bottom: 20px; 
+    cursor: pointer;
+    display: none;
+    outline: none;
+    padding: 15px;
+    position: fixed; 
+    right: 30px; 
+    z-index: 99;
+
+}
+
+#botao-topo img {
+    height: 40px;
+    width: 40px;
+}
